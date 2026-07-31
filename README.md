@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=02569B&height=200&section=header&text=Flutter%20%26%20Dart%20Developer&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=02569B&height=200&section=header&text=Ratan%20Lal%20Kumawat&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=700&lines=Hi+I'm+a+Flutter+%26+Dart+Developer;Building+Cross-Platform+Mobile+Apps+(iOS+%26+Android);Expert+in+BLoC%2C+Riverpod%2C+%26+Clean+Architecture;Open+for+Full-Time+Flutter+Developer+Roles!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=700&lines=Hi+I'm+Ratan+Lal+Kumawat;Flutter+%26+Dart+Developer;Building+Cross-Platform+Mobile+Apps+(iOS+%26+Android);Expert+in+BLoC%2C+Riverpod%2C+%26+Clean+Architecture;Open+for+Full-Time+Flutter+Developer+Roles!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### ðŸ‘¨â€ðŸ’» About Me
 
-Experienced **Flutter & Dart Developer** with a passion for crafting high-performance, responsive, and visually stunning cross-platform mobile applications for **Android & iOS**. 
+Hi! I'm **Ratan Lal Kumawat**, an experienced **Flutter & Dart Developer** with a passion for crafting high-performance, responsive, and visually stunning cross-platform mobile applications for **Android & iOS**. 
 
 - ðŸ”­ **Currently Focusing On**: Advanced Flutter State Management (BLoC, Riverpod), Clean Architecture, and Custom UI Animations.
 - âš¡ **Core Strengths**: Offline-first apps, RESTful & GraphQL API integration, Firebase Suite, Native Method Channels, and App Store / Play Store deployments.
@@ -117,10 +117,10 @@ Experienced **Flutter & Dart Developer** with a passion for crafting high-perfor
   <a href="https://github.com/ar-development21">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ar.development21@gmail.com">
+  <a href="mailto:ratanlalkumawat@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/ratanlalkumawat">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
